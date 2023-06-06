@@ -2,16 +2,19 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
+  - [Installing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
+  - [Configuring Active Directory in Azure](https://github.com/ErnestoAPantoja/configure-ad)
+  - [Understanding DNS in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
+  - [Understanding File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ErnestoAPantoja/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ErnestoAPantoja/configure-ad)
-  - [Inspecting Network Protocols in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ErnestoAPantoja/ticket-lifecycle)
 
 <h2>🤳Connect with me on LinkedIn:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ernesto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/ernestopantoja
