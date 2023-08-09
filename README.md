@@ -12,7 +12,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ErnestoAPantoja/ticket-lifecycle)
-
+- <b>Amazon Web Services (AWS)</b>
+  - [Deploying a Dynamic Website on AWS](https://github.com/ErnestoAPantoja/wordpress-website-aws)
 <h2>🤳Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Ernesto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
